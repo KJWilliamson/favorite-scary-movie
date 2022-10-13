@@ -16,7 +16,7 @@ function check() {
         document.querySelector("#placeToSee").innerText = "People are being duplicated. And once it happens to you, you're part of this... thing. It almost happened to me!";
 
         document.querySelector("body").style.backgroundImage =
-      "url('https://c.tenor.com/3AUnMaJkylkAAAAC/donald-sutherland-pod.gif')";
+      "url('https://media3.giphy.com/media/UGba4CcQG8T9m/giphy.gif?cid=ecf05e476d4637qibfd4dfwnb6wgx981m66tvia62wujaofc&rid=giphy.gif&ct=g')";
     
     } else if (horror === "halloween") {
         document.querySelector("#placeToSee").innerText = "I met him, fifteen years ago. I was told there was nothing left. No reason, no conscience, no understanding; even the most rudimentary sense of life or death, good or evil, right or wrong. I met this six-year-old child, with this blank, pale, emotionless face and, the blackest eyes... the *devil's* eyes. I spent eight years trying to reach him, and then another seven trying to keep him locked up because I realized what was living behind that boy's eyes was purely and simply... *evil*.";
@@ -40,7 +40,7 @@ function check() {
         document.querySelector("#placeToSee").innerText = "You still don't understand what you're dealing with, do you? Perfect organism. Its structural perfection is matched only by its hostility.";
 
         document.querySelector("body").style.backgroundImage =
-      "url('https://64.media.tumblr.com/919e517c19caa0b6fe038659d96b25f8/tumblr_inline_p7nm4r6S1q1rlerba_500.gifv')";
+      "url('https://media0.giphy.com/media/SYmkILRsQTFLO/giphy.gif?cid=ecf05e47emnz4faewiozszcjju0426mwq1ooa6oqr965oezj&rid=giphy.gif&ct=g')";
     
     } else if (horror === "aliens") {
         document.querySelector("#placeToSee").innerText = "My mommy always said there were no monsters - no real ones - but there are.";
