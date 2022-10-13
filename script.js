@@ -40,7 +40,7 @@ function check() {
         document.querySelector("#placeToSee").innerText = "You still don't understand what you're dealing with, do you? Perfect organism. Its structural perfection is matched only by its hostility.";
 
         document.querySelector("body").style.backgroundImage =
-      "url('https://media0.giphy.com/media/SYmkILRsQTFLO/giphy.gif?cid=ecf05e47emnz4faewiozszcjju0426mwq1ooa6oqr965oezj&rid=giphy.gif&ct=g')";
+      "url('https://media3.giphy.com/media/V3UvgjfbbZ3X2/giphy.gif?cid=ecf05e473bhp0egwl98hnqt6wv7pvog1awsftxk61abdy5n1&rid=giphy.gif&ct=g')";
     
     } else if (horror === "aliens") {
         document.querySelector("#placeToSee").innerText = "My mommy always said there were no monsters - no real ones - but there are.";
@@ -52,13 +52,13 @@ function check() {
         document.querySelector("#placeToSee").innerText = "We all go a little mad sometimes.";
 
         document.querySelector("body").style.backgroundImage =
-      "url('https://i.pinimg.com/originals/4f/40/9c/4f409caf0208ed091591a0624b0d8264.gif')";
+      "url('https://media0.giphy.com/media/2dosfx99zInk1eWNG2/giphy.gif?cid=ecf05e47fxgvw1j7ec22njp71309fm576fn5ema6ciusc5wg&rid=giphy.gif&ct=g')";
     
     } else if (horror === "us") {
         document.querySelector("#placeToSee").innerText = "They Look Exactly Like Us. They Think Like Us.";
 
         document.querySelector("body").style.backgroundImage =
-      "url('https://nerdist.com/wp-content/uploads/2019/03/giphy-2.gif')";
+      "url('https://media2.giphy.com/media/POYTEtunOvC1wX7Pfz/giphy.gif?cid=ecf05e477b1q6aj45pwu1g4ysvvjvylj4vgr4hs2lnrnj92o&rid=giphy.gif&ct=g')";
     
     } else if (horror === "get out") {
         document.querySelector("#placeToSee").innerText = "I Mean, I Told You Not To Go In That House.";
@@ -76,7 +76,7 @@ function check() {
         document.querySelector("#placeToSee").innerText = "Why are they doing this? Why are they doing this? They said when you got here the whole thing started. Who are you? What are you? Where did you come from? I think you're the cause of all of this. I think you're evil. EVIL!";
 
         document.querySelector("body").style.backgroundImage =
-      "url('https://media2.giphy.com/media/bTixcIRW1bWqk/giphy.webp?cid=ecf05e477jw728vsf59pbhi37hsmo4a019cm320bgoy74utm&rid=giphy.webp&ct=g')";
+      "url('https://media4.giphy.com/media/fSAXQQti7UUGXJ7mOp/giphy.gif?cid=ecf05e47fd6jbl4kzlf9zce628wqzyfi6zj8xzt4bj4mslsx&rid=giphy.gif&ct=g')";
     
     } else if (horror === "carrie") {
         document.querySelector("#placeToSee").innerText = "They're all gonna laugh at you.";
@@ -94,7 +94,7 @@ function check() {
         document.querySelector("#placeToSee").innerText = " Wendy? Darling? Light, of my life. I'm not gonna hurt ya. You didn't let me finish my sentence. I said, I'm not gonna hurt ya. I'm just going to bash your brains in.";
 
         document.querySelector("body").style.backgroundImage =
-      "url('https://media3.giphy.com/media/igT08WYAKXQM8/200.webp?cid=ecf05e4712etj7oppephv9d96lv34607q34f4khhtrp9l9q1&rid=200.webp&ct=g')";
+      "url('https://media1.giphy.com/media/l0O9ykfUZhs7P2yE8/giphy.gif?cid=ecf05e47t23wyeh0offeha18bke7jnd0kcd4rz06qbto62pw&rid=giphy.gif&ct=g')";
     
     } else if (horror === "frankenstein") {
         document.querySelector("#placeToSee").innerText = " You have created a Monster and it will destroy you!";
@@ -112,37 +112,37 @@ function check() {
         document.querySelector("#placeToSee").innerText = "If It Takes Us Over, Then It Has No More Enemies, Nobody Left To Kill It. And Then It's Won";
 
         document.querySelector("body").style.backgroundImage =
-      "url('https://thumbs.gfycat.com/DistantMedicalIrishdraughthorse-max-1mb.gif')";
+      "url('https://media4.giphy.com/media/IhNzvlaWhuOE1ZwMoE/giphy.gif?cid=ecf05e47t5qyyp3di6oada519tfwnqgsg1il47d48q307p8f&rid=giphy.gif&ct=g')";
     
     } else if (horror === "night of the living dead") {
         document.querySelector("#placeToSee").innerText = "I ought to drag you out there and FEED you to those things!";
 
         document.querySelector("body").style.backgroundImage =
-      "url('https://media3.giphy.com/media/l2YWvuIJJX9nDVLEc/200.webp?cid=ecf05e47bs2c0jmviuyuvcks1yu99kvdw6f7jcpye6c3u4mm&rid=200.webp&ct=g')";
+      "url('https://media0.giphy.com/media/l2YWAOJso1n136fM4/giphy.gif?cid=ecf05e47k47u0ut4uz3fr5gkqdwdscp13eez6nggvel61kqm&rid=giphy.gif&ct=g')";
     
     } else if (horror === "friday the 13th") {
         document.querySelector("#placeToSee").innerText = "In the lake, the one... the one who attacked me. The one who pulled me underneath the water.";
 
         document.querySelector("body").style.backgroundImage =
-      "url('https://media1.giphy.com/media/xT9KVvrnaJt3ruragg/200w.webp?cid=ecf05e47zdislj21tj74w8vmxz6gsv8iq9ra4yazj2fmbl01&rid=200w.webp&ct=g')";
+      "url('https://media2.giphy.com/media/xT9KVx1weG8WS6VxSg/giphy.gif?cid=ecf05e47hlzlpgdhw2erna33ry18huf0kxwrzq4lidpn5ek8&rid=giphy.gif&ct=g')";
     
     } else if (horror === "the exorcist" || horror === "exorcist") {
-        document.querySelector("#placeToSee").innerText = "There are no experts. You probably know as much about possession than most priests. Look, your daughter doesn't say she's a demon. She says she's the devil himself. And if you've seen as many psychotics as I have, you'd know it's like saying you're Napoleon Bonaparte.";
+        document.querySelector("#placeToSee").innerText = "Oh please, Mother, make it stop! It's hurting. ";
 
         document.querySelector("body").style.backgroundImage =
-      "url('https://media0.giphy.com/media/26uTqYSyTfIFp07wQ/giphy.gif')";
+      "url('https://media1.giphy.com/media/xT9KVjBI3W2283URdm/giphy.gif?cid=ecf05e47tyrl4mdbb53a75n0y8llbrgtvq4h1xri5ljoiqvl&rid=giphy.gif&ct=g')";
     
     } else if (horror === "the lost boys" || horror === "lost boys") {
         document.querySelector("#placeToSee").innerText = "Drink This Michael. Become One Of Us";
 
         document.querySelector("body").style.backgroundImage =
-      "url('https://i.makeagif.com/media/5-11-2015/JP1u1l.gif')";
+      "url('https://media3.giphy.com/media/l41JRUykiLHXEEmHu/giphy.gif?cid=ecf05e47essjbr0t8zrefs94tkha9lnv8u8flr83c5eslsdz&rid=giphy.gif&ct=g')";
     
     } else if (horror === "the people under the stairs" || horror === "people under the stairs") {
         document.querySelector("#placeToSee").innerText = " That brother and sister act you mess with...are evil, plain and simple.";
 
         document.querySelector("body").style.backgroundImage =
-      "url('https://c.tenor.com/QG6wW8tLKHoAAAAd/the-people-under-the-stairs-1991.gif')";
+      "url('https://media0.giphy.com/media/3PzVCfWLZY6DlJNGyJ/giphy.gif?cid=ecf05e474ooy2xas3oqxx8xqkj9v2xcjbvqdvqfxw1w5od3k&rid=giphy.gif&ct=g')";
     
     } else if (horror === "rosemary's baby" || horror === "rosemarys baby") {
         document.querySelector("#placeToSee").innerText = " What have you done to his eyes?!?";
@@ -154,19 +154,19 @@ function check() {
         document.querySelector("#placeToSee").innerText = "Candyman, Candyman, Candyman, Candyman, Candyman.";
 
         document.querySelector("body").style.backgroundImage =
-      "url('https://media0.giphy.com/media/l3yZsiH9QR1Cm77dZP/100.webp?cid=ecf05e474ulxdvep96junktzu3bu7hlvp9z2w10liz8lg7mz&rid=100.webp&ct=g')";
+      "url('https://media2.giphy.com/media/l3yZsiH9QR1Cm77dZP/giphy.gif?cid=ecf05e47i58lkgefzluevjomfula3rvnjk4bzkw9jw080nz0&rid=giphy.gif&ct=g')";
     
     } else if (horror == "hellraiser") {
         document.querySelector("#placeToSee").innerText = "You suffering will be legendary, even in hell";
 
         document.querySelector("body").style.backgroundImage =
-      "url('https://media4.giphy.com/media/l49FlGi9qemgMwUzC/200w.webp?cid=ecf05e477rgq0vp03o9whw56duejjghrdi6xe8zebvdcen2s&rid=200w.webp&ct=g')";
+      "url('https://media2.giphy.com/media/l49FlGi9qemgMwUzC/giphy.gif?cid=ecf05e47yfbn23w3pyjafei6xqufntuhvx3mmtn1wycn0uz8&rid=giphy.gif&ct=g')";
     
     } else if (horror === "scream") {
         document.querySelector("#placeToSee").innerText = "Do You Like Scary Movies?";
 
         document.querySelector("body").style.backgroundImage =
-      "url('https://mtv.mtvnimages.com/uri/mgid:file:http:shared:mtv.com/news/wp-content/uploads/2015/06/drew-barrymore-scream-1434573244.gif?quality=.8&height=243&width=500')";
+      "url('https://media3.giphy.com/media/l2YWy3OWspHaSatXO/giphy.gif?cid=ecf05e47boaaj6fa5yqxr0s1vpslzzbjcuf8o7pchuifrt8y&rid=giphy.gif&ct=g')";
     
     } else if (horror === "scream 2") {
         document.querySelector("#placeToSee").innerText = "Is that the best you can do? Because Billy and Stu were much more original.";
@@ -220,7 +220,7 @@ function check() {
         document.querySelector("#placeToSee").innerText = "It needs to scare you. There's something in fear, something it can smell. Something that tells it if there's anything inside someone that it might... like";
 
         document.querySelector("body").style.backgroundImage =
-      "url('https://media1.giphy.com/media/tdCTrW0CGiZ32/giphy.gif')";
+      "url('https://media1.giphy.com/media/tdCTrW0CGiZ32/giphy.gif?cid=ecf05e47yu5nthohywlicxir9ne7cisaxtghdwmrg862tjp1&rid=giphy.gif&ct=g')";
     
     } else if (horror === "fright night") {
         document.querySelector("#placeToSee").innerText = "Do you realize how much trouble you've caused me? Spying on me. Almost disturbing my sleep this afternoon. Telling policemen about me!";
@@ -238,7 +238,7 @@ function check() {
         document.querySelector("#placeToSee").innerText = "I let her out";
 
         document.querySelector("body").style.backgroundImage =
-      "url('https://64.media.tumblr.com/acd2d5654ff43d31af1f294fa1e11256/27fa37d5772935b5-d8/s540x810/c2d67aa4d3def8c59fa0710ecd2c40101553f904.gifv')";
+      "url('https://media4.giphy.com/media/1vZeiU5RT06L6pzzFq/giphy.gif?cid=ecf05e47381ga89ht8cc7qy4wg2zuw7dod38hicw1t2i5azw&rid=giphy.gif&ct=g')";
     
     } else if (horror === "the haunting") {
         document.querySelector("#placeToSee").innerText = "Can't you feel it? It's alive... watching.";
@@ -262,7 +262,7 @@ function check() {
         document.querySelector("#placeToSee").innerText = "There are ghosts in the basement!";
 
         document.querySelector("body").style.backgroundImage =
-      "url('https://64.media.tumblr.com/0872a12a1c04ace2a7dda2106b30ad4f/47c71f199b388f8b-82/s540x810/0f7c3e440489b95b5db16e02d48ee24d4fbe10f6.gifv')";
+      "url('https://66.media.tumblr.com/aa85aa45d0b7556bb99504c69820235e/tumblr_ov3v83irch1rp0vkjo1_540.gif')";
     
     } else if (horror === "30 days of night") {
         document.querySelector("#placeToSee").innerText = "There is no escape. No hope. Only hunger and pain.";
@@ -280,13 +280,13 @@ function check() {
         document.querySelector("#placeToSee").innerText = "A ghost is an emotion bent out of shape, condemned to repeat itself, time and time again until it rights the wrong that was done";
 
         document.querySelector("body").style.backgroundImage =
-      "url('http://31.media.tumblr.com/604524b5bfa6d7cc74b45f266d19e990/tumblr_mrehunBUFA1s0fyp5o1_400.gif')";
+      "url('https://pa1.narvii.com/6174/e7d3ccc0110377fca59c38582a4e54ff03810080_hq.gif')";
     
     } else if (horror === "prince of darkness") {
         document.querySelector("#placeToSee").innerText = "No prison can hold him now";
 
         document.querySelector("body").style.backgroundImage =
-      "url('https://64.media.tumblr.com/645063d99f504520a5082a647bd04142/tumblr_mtbx741fL71rsbftzo1_r1_500.gifv')";
+      "url('https://64.media.tumblr.com/645063d99f504520a5082a647bd04142/tumblr_mtbx741fL71rsbftzo1_r1_500.gif')";
     
     } else if (horror === "poltergeist 2") {
         document.querySelector("#placeToSee").innerText = "They're back. ";
@@ -418,13 +418,13 @@ function check() {
         document.querySelector("#placeToSee").innerText= "It’s all real. The boogeyman is real…and you found him.";
 
         document.querySelector("body").style.backgroundImage =
-      "url('http://24.media.tumblr.com/tumblr_l66i6laFQi1qcop9yo1_500.gif')";
+      "url('https://pa1.narvii.com/6051/264a1ffc9b467d92c25b50b85207046f294012a4_hq.gif')";
     
     } else if (horror === "1408") {
         document.querySelector("#placeToSee").innerText= "..but where's the bone-chilling terror?";
 
         document.querySelector("body").style.backgroundImage =
-      "url('https://thumbs.gfycat.com/FaroffAssuredBlowfish-size_restricted.gif')";
+      "url('https://images6.fanpop.com/image/photos/41600000/1408-john-cusack-41682162-480-200.gif')";
     
     } else if (horror === "doctor sleep") {
         document.querySelector("#placeToSee").innerText= "You're magic. Like me.";
@@ -433,16 +433,16 @@ function check() {
       "url('https://i.imgur.com/i2fbBtf.gif?noredirect')";
     
     } else if (horror === "tales from the darkside") {
-        document.querySelector("#placeToSee").innerText= "Oh, I was just thinking of this guy I know. Couldn't distinguish a third dynastysacred scroll from a piece of post-Alexandrian pictogram porn.";
+        document.querySelector("#placeToSee").innerText= "Well, at twelve minutes a pound, that means you have to be in the oven by no later than 1:30. Oh, but evisceration takes at least an hour.";
 
         document.querySelector("body").style.backgroundImage =
-      "url('https://nofspodcast.com/wp-content/uploads/2019/05/tales-from-the-darkside-movie-gif.gif')";
+      "url('https://s.yimg.com/ny/api/res/1.2/jgCkinrehqFiSMlPgseS7Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM1MQ--/http://38.media.tumblr.com/da0b1de97ec83188b979e9a1e59f1557/tumblr_inline_nx1f540CHC1t0ijhl_500.gif')";
     
     } else if (horror === "oculus") {
         document.querySelector("#placeToSee").innerText= "I've met my demons, I have many.";
 
         document.querySelector("body").style.backgroundImage =
-      "url('https://c.tenor.com/dVZIpBWG0cwAAAAC/oculus-2013.gif')";
+      "url('https://64.media.tumblr.com/2b8566eb09d93740d9f51af4e7bf9e1d/tumblr_n2pcjsO1ad1tqq2ydo1_500.gifv')";
     
     } else if (horror === "twilight zone the movie") {
         document.querySelector("#placeToSee").innerText= "Hey... you wanna see something really scary?";
@@ -454,13 +454,13 @@ function check() {
         document.querySelector("#placeToSee").innerText= " Laura, I'm sorry that we drifted apart!";
 
         document.querySelector("body").style.backgroundImage =
-      "url('https://thumbs.gfycat.com/ShortWelltodoJohndory-size_restricted.gif')";
+      "url('https://thumbs.gfycat.com/SleepyPeriodicJabiru-size_restricted.gif')";
     
     } else if (horror === "the ring") {
         document.querySelector("#placeToSee").innerText= "It means ever since that girl's been gone, things have been better.";
 
         document.querySelector("body").style.backgroundImage =
-      "url('https://media1.giphy.com/media/GTeBnkeQY4Nzy/200.gif')";
+      "url('https://i.pinimg.com/originals/5c/58/63/5c5863ae85a15bfc3265489088c5fdb9.gif')";
     
     } else if (horror === "the visit") {
         document.querySelector("#placeToSee").innerText= "So they are weird in the morning, but they're even weirder at night?";
@@ -493,10 +493,10 @@ function check() {
       "url('https://i.gifer.com/UWUZ.gif')";
     
     } else if (horror === "paranormal activity 4") {
-        document.querySelector("#placeToSee").innerText= "He looks just like his mother.";
+        document.querySelector("#placeToSee").innerText= "Please don't hurt me!";
 
         document.querySelector("body").style.backgroundImage =
-      "url('https://i.makeagif.com/media/7-11-2015/hfPq2U.gif')";
+      "url('https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2020/08/source.gif?resize=700%2C389&ssl=1')";
     
     } else if (horror === "resident evil") {
         document.querySelector("#placeToSee").innerText= "My Name Is Alice...";
@@ -508,7 +508,7 @@ function check() {
         document.querySelector("#placeToSee").innerText= "You'll have to hide better than that.";
 
         document.querySelector("body").style.backgroundImage =
-      "url('https://64.media.tumblr.com/42af93da6e6b3e4b81aabdd426be8467/b43788ddef0a3791-49/s540x810/de7453a1ae15f9cbe768393aa4e45f595ea02721.gifv')";
+      "url('https://i.pinimg.com/originals/9d/7c/a2/9d7ca22a5fee62e9aa55616a79e42a62.gif')";
     
     } else if (horror === "mirrors") {
         document.querySelector("#placeToSee").innerText= "Don't make me threaten you!";
@@ -532,7 +532,7 @@ function check() {
         document.querySelector("#placeToSee").innerText= "No one uses this corridor. People who go in this tunnel don't come out";
 
         document.querySelector("body").style.backgroundImage =
-      "url('https://64.media.tumblr.com/be6679622ef79c8ebe7bc36c86a4f75b/tumblr_omkqgjNfQt1udst5yo1_540.gifv')";
+      "url('https://64.media.tumblr.com/4f0bff3b8b05f24ddf80b11320e21777/tumblr_n7nndjr33S1r70le6o1_500.gifv')";
     
     } else if (horror === "jaws 2") {
         document.querySelector("#placeToSee").innerText= "But I'm telling you, and I'm telling everybody at this table that that's a shark! And I know what a shark looks like, because I've seen one up close. And you'd better do something about this one, because I don't intend to go through that hell again!";
@@ -556,7 +556,7 @@ function check() {
         document.querySelector("#placeToSee").innerText= "He said that wherever I went, he would find me, walk right up to me, and I wouldn’t be able to see him.";
 
         document.querySelector("body").style.backgroundImage =
-      "url('https://media2.giphy.com/media/XaGSdKtYTqS3DI7pLG/200.gif')";
+      "url('https://media2.giphy.com/media/H6E7ZdRAF3rhR9QAXi/giphy.gif?cid=ecf05e47hcwbcdcg03dm6ma55vau3npqccsscf6mztrsyuyk&rid=giphy.gif&ct=g')";
     
     } else if (horror === "vhs") {
         document.querySelector("#placeToSee").innerText= "Did you erase it?";
@@ -568,7 +568,7 @@ function check() {
         document.querySelector("#placeToSee").innerText= "12 years ago Raymond Garth killed his family here and then committed suicide!";
 
         document.querySelector("body").style.backgroundImage =
-      "url('https://64.media.tumblr.com/911ecbafe3b3f5256a31e2d82f9d59b1/tumblr_ofihyiu2Uz1tulv1do9_500.gifv')";
+      "url('https://1.bp.blogspot.com/-ezKf3Vgt7es/WXqUK05lfNI/AAAAAAAAJZo/kA44ZWYJMJ8Z66UvLbDkZAVWKTdmjBcIgCLcBGAs/s1600/hell%2Bnight%2Bjump%2Bscare%2Bgiphy.gif')";
     
     } else if (horror === "halloween 2") {
         document.querySelector("#placeToSee").innerText= "Help...";
@@ -604,19 +604,19 @@ function check() {
         document.querySelector("#placeToSee").innerText= "At least I get to see her on the anniversary of her death. Even if she is being chased by a psycho";
 
         document.querySelector("body").style.backgroundImage =
-      "url('https://64.media.tumblr.com/315780d4a26151ee4a68b21e6c473606/tumblr_nw2g3ha2Dj1qkvv72o1_500.gifv')";
+      "url('https://gbhbl.files.wordpress.com/2016/06/gif3434243.gif')";
     
     } else if (horror === "the faculty") {
         document.querySelector("#placeToSee").innerText= "You know in my world Casey, there were limitless oceans as far as the eye could see. Beautiful, huh?";
 
         document.querySelector("body").style.backgroundImage =
-      "url('https://c.tenor.com/Mdt18zn5xm0AAAAC/the-faculty-movie.gif')";
+      "url('https://64.media.tumblr.com/b7a014dfff621a410ecd155be70f5edd/51c661ef21ad6b6e-45/s540x810/964adb0e967d1800089e2326937ab553c1580715.gif')";
     
     } else if (horror === "disturbing behavior") {
-        document.querySelector("#placeToSee").innerText= "Blue Robots.";
+        document.querySelector("#placeToSee").innerText= "";
 
         document.querySelector("body").style.backgroundImage =
-      "url('https://thumbs.gfycat.com/AdvancedAgitatedCottontail-size_restricted.gif')";
+      "url('https://64.media.tumblr.com/3970ef0d6d2046a1fee4a506ad6bcebb/5f6b529a9db43c51-b2/s540x810/fc67bf0e3e64359e3a8d1b8a37269a05b5e3f19e.gif')";
     
     } else if (horror === "dawn of the dead") {
         document.querySelector("#placeToSee").innerText= "When there's no more room in Hell, the dead will walk the Earth";
