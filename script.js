@@ -734,16 +734,16 @@ function check() {
 
   document.querySelector("body").style.backgroundImage =
 "url('https://media0.giphy.com/media/xT9IgvEOwRzUcZDRiU/giphy.gif?cid=ecf05e47sfiwljt37b3g4x5zv348m71ure4lllcghosxok3c&rid=giphy.gif&ct=g')";
-} else if (horror === "") {
+} else if (horror === "dead ringers") {
+  document.querySelector("#placeToSee").innerText= "Separation can be a... terrifying thing";
+
+  document.querySelector("body").style.backgroundImage =
+"url('https://media0.giphy.com/media/QxjTzgPCSfcLdjwd1O/giphy.gif?cid=ecf05e47o1my763xaaifd9op3bffa78ya0y1yml27558tbcm&rid=giphy.gif&ct=g')";
+} else if (horror === "night house") {
   document.querySelector("#placeToSee").innerText= "";
 
   document.querySelector("body").style.backgroundImage =
-"url('')";
-} else if (horror === "") {
-  document.querySelector("#placeToSee").innerText= "";
-
-  document.querySelector("body").style.backgroundImage =
-"url('')";
+"url('https://media1.giphy.com/media/56hPClUiHjcLwDWO2H/giphy.gif?cid=ecf05e47f35oa20537yrwcu6d0fhgsgkxebr327vgibn1psc&rid=giphy.gif&ct=g')";
 } else {
       document.querySelector("#placeToSee").innerText= "";
         document.querySelector("body").style.backgroundImage = "url('https://thumbs.gfycat.com/BonyLivelyAtlanticblackgoby-size_restricted.gif')";
