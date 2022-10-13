@@ -310,7 +310,7 @@ function check() {
         document.querySelector("#placeToSee").innerText = "To the ships at sea who can hear my voice, look across the water, into the darkness. Look for the fog.";
 
         document.querySelector("body").style.backgroundImage =
-      "url('http://24.media.tumblr.com/7f3e8449c39fe754e746daff651a6e75/tumblr_mmuwzw76sX1s488ujo1_500.gif')";
+      "url('https://64.media.tumblr.com/665b6435b2d9cb62aecf7f2a3fdbf38f/82f191181e6f4f59-31/s540x810/46dab4412d9e706fdad632b8deb94ab5107c954c.gif')";
     
     } else if (horror === "trick 'r treat") {
         document.querySelector("#placeToSee").innerText = "I hate Halloween";
