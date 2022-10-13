@@ -34,7 +34,7 @@ function check() {
         document.querySelector("#placeToSee").innerText = "You’re Gonna Need A Bigger Boat!";
 
         document.querySelector("body").style.backgroundImage =
-      "url('https://i.gifer.com/1b5X.gif')";
+      "url('https://media3.giphy.com/media/5pYdt8lWiM2qzyXuVS/giphy.gif?cid=ecf05e47pxs6kjxrc9b2r92qu2cqxv97udey6j2js2ex4zqm&rid=giphy.gif&ct=g')";
     
     } else if (horror === "alien") {
         document.querySelector("#placeToSee").innerText = "You still don't understand what you're dealing with, do you? Perfect organism. Its structural perfection is matched only by its hostility.";
