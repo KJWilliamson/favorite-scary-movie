@@ -73,7 +73,7 @@ function check() {
       "url('https://media4.giphy.com/media/13AU33EspJuPTy/200w.webp?cid=ecf05e47on58zu0gx8gvxhlwchxu4z30kmh7x2scg2v6odzv&rid=200w.webp&ct=g')";
     
     } else if (horror === "the birds" || horror === "birds") {
-        document.querySelector("#placeToSee").innerText = "Why are they doing this? Why are they doing this? They said when you got here the whole thing started. Who are you? What are you? Where did you come from? I think you're the cause of all of this. I think you're evil. EVIL!";
+        document.querySelector("#placeToSee").innerText = "I think you're the cause of all of this. I think you're evil. EVIL!";
 
         document.querySelector("body").style.backgroundImage =
       "url('https://media4.giphy.com/media/fSAXQQti7UUGXJ7mOp/giphy.gif?cid=ecf05e47fd6jbl4kzlf9zce628wqzyfi6zj8xzt4bj4mslsx&rid=giphy.gif&ct=g')";
