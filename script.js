@@ -52,7 +52,7 @@ function check() {
         document.querySelector("#placeToSee").innerText = "We all go a little mad sometimes.";
 
         document.querySelector("body").style.backgroundImage =
-      "url('https://media0.giphy.com/media/2dosfx99zInk1eWNG2/giphy.gif?cid=ecf05e47fxgvw1j7ec22njp71309fm576fn5ema6ciusc5wg&rid=giphy.gif&ct=g')";
+      "url('https://64.media.tumblr.com/17174e1b3f85c116932d1594dae7751e/ca06d3068350c58b-2a/s1280x1920/a9ebfa6e5dc4eb799d2e43f5b3f363d0b742b48c.gif')";
     
     } else if (horror === "us") {
         document.querySelector("#placeToSee").innerText = "They Look Exactly Like Us. They Think Like Us.";
