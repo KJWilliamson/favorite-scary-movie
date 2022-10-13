@@ -1,6 +1,7 @@
 ## What's your favorite scary movie? built with HTML, CSS, and Javascript.
 
 * User enters a scary movie title and gets back a gif from that movie OR gets a film countdown if it's not in the database.
+* Have also added It (2017)
 
 https://favoritescarymovie.netlify.app/
 
