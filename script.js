@@ -640,8 +640,8 @@ function check() {
         document.querySelector("body").style.backgroundImage =
       "url('https://c.tenor.com/tHr2t4sLoz0AAAAC/midsommar-bear.gif')";
     } else {
-        document.querySelector("body").style.backgroundImage =
-      "url('https://thumbs.gfycat.com/BonyLivelyAtlanticblackgoby-size_restricted.gif')";
+      document.querySelector("#placeToSee").innerText= "";
+        document.querySelector("body").style.backgroundImage = "url('https://thumbs.gfycat.com/BonyLivelyAtlanticblackgoby-size_restricted.gif')";
 
     }
 }
