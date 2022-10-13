@@ -19,10 +19,10 @@ function check() {
       "url('https://media3.giphy.com/media/UGba4CcQG8T9m/giphy.gif?cid=ecf05e476d4637qibfd4dfwnb6wgx981m66tvia62wujaofc&rid=giphy.gif&ct=g')";
     
     } else if (horror === "halloween") {
-        document.querySelector("#placeToSee").innerText = "I met him, fifteen years ago. I was told there was nothing left. No reason, no conscience, no understanding; even the most rudimentary sense of life or death, good or evil, right or wrong. I met this six-year-old child, with this blank, pale, emotionless face and, the blackest eyes... the *devil's* eyes. I spent eight years trying to reach him, and then another seven trying to keep him locked up because I realized what was living behind that boy's eyes was purely and simply... *evil*.";
+        document.querySelector("#placeToSee").innerText = "I guess everyone's entitled to one good scare.";
 
         document.querySelector("body").style.backgroundImage =
-      "url('https://images6.fanpop.com/image/photos/40300000/Michael-Myers-the-halloween-movies-40381603-500-210.gif')";
+      "url('https://64.media.tumblr.com/ddcb084b6c840f489d08e6fc05785a28/tumblr_ph1032ysaj1r2aobgo2_540.gif')";
     
     } else if (horror === "the omen" || horror === "omen") {
         document.querySelector("#placeToSee").innerText = "Your son, Mr. Thorn. The Son of the Devil. He will kill the unborn child. Then he will kill your wife. And then, when he is certain to inherit all that is yours, then, Mr. Thorn... he will kill you.";
