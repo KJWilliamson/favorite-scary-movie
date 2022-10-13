@@ -301,7 +301,7 @@ function check() {
       "url('https://64.media.tumblr.com/e514b2340853e1f7eea89c16fedf8b66/tumblr_phd2bi9z0q1qj6sk2o1_500.gifv')";
     
     } else if (horror === "wolfen") {
-        document.querySelector("#placeToSee").innerText = "It's not wolves, it's Wolfen. For 20,000 years Wilson - ten times your fucking Christian era - the 'skins and wolves, the great hunting nations, lived together, nature in balance. Then the slaughter came.";
+        document.querySelector("#placeToSee").innerText = "It's not wolves, it's Wolfen. For 20,000 years Wilson - ten times your Christian era - the 'skins and wolves, the great hunting nations, lived together, nature in balance. Then the slaughter came.";
 
         document.querySelector("body").style.backgroundImage =
       "url('https://64.media.tumblr.com/91a01e14edd81045514e9d07537b1c80/ef5c4b0d945c2546-e4/s500x750/e23b8752bfe649d6d067f263d9332c5b9391f962.gifv')";
