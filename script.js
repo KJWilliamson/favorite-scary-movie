@@ -319,10 +319,10 @@ function check() {
       "url('https://64.media.tumblr.com/75c5e2d62b1874d2b9b74fd0abb40162/21d5e2749ab27e17-ea/s540x810/c14ebc76c23fcd5e950a1f93fff4c54ec6566f1c.gifv')";
     
     } else if (horror === "the sentinel" || horror === "sentinel") {
-        document.querySelector("#placeToSee").innerText = "The angel Uriel was stationed at the entrance to Eden to guard it from the devil. Since that time a long line of guardians... sentinels, have guarded the world against evil. Right now it's Father Halliran upstairs. But tonight YOU become the next sentinel. All the people you saw here, the old man, the lesbians... all of them are reincarnations. Devils. The only way they can stop the new sentinal is to make you commit suicide. That's what they were trying to do.";
+        document.querySelector("#placeToSee").innerText = "The angel Uriel was stationed at the entrance to Eden to guard it from the devil. Since that time a long line of guardians... sentinels, have guarded the world against evil.";
 
         document.querySelector("body").style.backgroundImage =
-      "url('http://24.media.tumblr.com/tumblr_mb7hpzMlOZ1qdezf9o1_500.gif')";
+      "url('https://25.media.tumblr.com/tumblr_mb7gf6k39I1qdezf9o1_500.gif')";
     
     } else if (horror === "the texas chainsaw massacre" || horror === "texas chainsaw massacre") {
         document.querySelector("#placeToSee").innerText = "My family's always been in meat.";
