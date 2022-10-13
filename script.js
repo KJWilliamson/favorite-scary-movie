@@ -24,7 +24,7 @@ function check() {
         document.querySelector("body").style.backgroundImage =
       "url('https://images6.fanpop.com/image/photos/40300000/Michael-Myers-the-halloween-movies-40381603-500-210.gif')";
     
-    } else if (horror == "the omen") {
+    } else if (horror == "the omen" || horror === "omen") {
         document.querySelector("#placeToSee").innerText = "Your son, Mr. Thorn. The Son of the Devil. He will kill the unborn child. Then he will kill your wife. And then, when he is certain to inherit all that is yours, then, Mr. Thorn... he will kill you.";
 
         document.querySelector("body").style.backgroundImage =
@@ -72,7 +72,7 @@ function check() {
         document.querySelector("body").style.backgroundImage =
       "url('https://media4.giphy.com/media/13AU33EspJuPTy/200w.webp?cid=ecf05e47on58zu0gx8gvxhlwchxu4z30kmh7x2scg2v6odzv&rid=200w.webp&ct=g')";
     
-    } else if (horror == "the birds") {
+    } else if (horror == "the birds" || horror === "birds") {
         document.querySelector("#placeToSee").innerText = "Why are they doing this? Why are they doing this? They said when you got here the whole thing started. Who are you? What are you? Where did you come from? I think you're the cause of all of this. I think you're evil. EVIL!";
 
         document.querySelector("body").style.backgroundImage =
@@ -84,13 +84,13 @@ function check() {
         document.querySelector("body").style.backgroundImage =
       "url('https://media2.giphy.com/media/134Kfzd7fUf2ve/giphy.gif')";
     
-    } else if (horror == "a nightmare on elm street") {
+    } else if (horror == "a nightmare on elm street" || horror === "nightmare on elm street") {
         document.querySelector("#placeToSee").innerText = "He scraped his fingernails along things. Actually, they were more like finger-knives or something, like he’d made them himself. Anyway, they made this horrible sound.";
 
         document.querySelector("body").style.backgroundImage =
       "url('https://media2.popsugar-assets.com/files/2013/09/26/914/n/1922283/8517294b90d902de_NightmareOnElm.gif')";
     
-    } else if (horror == "the shining") {
+    } else if (horror == "the shining" || horror === "shining") {
         document.querySelector("#placeToSee").innerText = " Wendy? Darling? Light, of my life. I'm not gonna hurt ya. You didn't let me finish my sentence. I said, I'm not gonna hurt ya. I'm just going to bash your brains in.";
 
         document.querySelector("body").style.backgroundImage =
@@ -126,25 +126,25 @@ function check() {
         document.querySelector("body").style.backgroundImage =
       "url('https://media1.giphy.com/media/xT9KVvrnaJt3ruragg/200w.webp?cid=ecf05e47zdislj21tj74w8vmxz6gsv8iq9ra4yazj2fmbl01&rid=200w.webp&ct=g')";
     
-    } else if (horror == "the exorcist") {
+    } else if (horror == "the exorcist" || horror === "exorcist") {
         document.querySelector("#placeToSee").innerText = "There are no experts. You probably know as much about possession than most priests. Look, your daughter doesn't say she's a demon. She says she's the devil himself. And if you've seen as many psychotics as I have, you'd know it's like saying you're Napoleon Bonaparte.";
 
         document.querySelector("body").style.backgroundImage =
       "url('https://media0.giphy.com/media/26uTqYSyTfIFp07wQ/giphy.gif')";
     
-    } else if (horror == "the lost boys") {
+    } else if (horror == "the lost boys" || horror === "lost boys") {
         document.querySelector("#placeToSee").innerText = "Drink This Michael. Become One Of Us";
 
         document.querySelector("body").style.backgroundImage =
       "url('https://i.makeagif.com/media/5-11-2015/JP1u1l.gif')";
     
-    } else if (horror == "the people under the stairs") {
+    } else if (horror == "the people under the stairs" || horror === "people under the stairs") {
         document.querySelector("#placeToSee").innerText = " That brother and sister act you mess with...are evil, plain and simple.";
 
         document.querySelector("body").style.backgroundImage =
       "url('https://c.tenor.com/QG6wW8tLKHoAAAAd/the-people-under-the-stairs-1991.gif')";
     
-    } else if (horror == "rosemary's baby") {
+    } else if (horror == "rosemary's baby" || horror === "rosemarys baby") {
         document.querySelector("#placeToSee").innerText = " What have you done to his eyes?!?";
 
         document.querySelector("body").style.backgroundImage =
@@ -186,13 +186,13 @@ function check() {
         document.querySelector("body").style.backgroundImage =
       "url('https://media.giphy.com/media/Rjx9I7Kwqvb50TdhO0/giphy.gif')";
     
-    } else if (horror == "the amityville horror") {
+    } else if (horror == "the amityville horror" || horror === "amityville horror") {
         document.querySelector("#placeToSee").innerText = "It's always so cold in here";
 
         document.querySelector("body").style.backgroundImage =
       "url('https://media3.giphy.com/media/Mc7WiBsty2bGsvFVg6/giphy.gif')";
     
-    } else if (horror == "the changeling") {
+    } else if (horror == "the changeling" || horror === "changeling") {
         document.querySelector("#placeToSee").innerText = "That house is not fit to live in. No one's been able to live in it. It doesn't want people";
 
         document.querySelector("body").style.backgroundImage =
@@ -270,7 +270,7 @@ function check() {
         document.querySelector("body").style.backgroundImage =
       "url('https://c.tenor.com/p8r36IZqH44AAAAC/30-days.gif')";
     
-    } else if (horror == "the meg") {
+    } else if (horror == "the meg" || horror === "meg") {
         document.querySelector("#placeToSee").innerText = "My God! It's a shark. It's like twenty, twenty-five meters.";
 
         document.querySelector("body").style.backgroundImage =
@@ -324,7 +324,7 @@ function check() {
         document.querySelector("body").style.backgroundImage =
       "url('http://24.media.tumblr.com/tumblr_mb7hpzMlOZ1qdezf9o1_500.gif')";
     
-    } else if (horror == "the texas chainsaw massacre") {
+    } else if (horror == "the texas chainsaw massacre" || horror === "texas chainsaw massacre") {
         document.querySelector("#placeToSee").innerText = "My family's always been in meat.";
 
         document.querySelector("body").style.backgroundImage =
@@ -516,13 +516,13 @@ function check() {
         document.querySelector("body").style.backgroundImage =
       "url('http://pa1.narvii.com/6374/e0fa742a4fe3abc4792e833be164001e55fc41e4_00.gif')";
     
-    } else if (horror == "the last exorcism") {
+    } else if (horror == "the last exorcism" || horror === "last exorcism") {
         document.querySelector("#placeToSee").innerText= "If you believe in God, then you gotta believe in the Devil.";
 
         document.querySelector("body").style.backgroundImage =
       "url('https://pa1.narvii.com/6231/bf459baa85c6eabcdb636a4ad316c2bd01ada8b3_hq.gif')";
     
-    } else if (horror == "the legend of hell house") {
+    } else if (horror == "the legend of hell house" || horror === "legend of hell house") {
         document.querySelector("#placeToSee").innerText= "What did he do to make this house so evil, Mr. Fischer?";
 
         document.querySelector("body").style.backgroundImage =
@@ -582,7 +582,13 @@ function check() {
         document.querySelector("body").style.backgroundImage =
       "url('http://38.media.tumblr.com/9d6c193695dadbbb2fd6ad87c12acc39/tumblr_nw9y23f1nv1rp0vkjo1_500.gif')";
     
-    } else if (horror == "halloween 5") {
+    } else if (horror == "halloween 4") {
+      document.querySelector("#placeToSee").innerText= "Wherever she is, that little child is in mortal danger.";
+
+      document.querySelector("body").style.backgroundImage =
+    "url('https://media2.giphy.com/media/5UuerHgsL6h1YhldUE/giphy.gif?cid=ecf05e471hqp401sylnsx0rodk1ugwroyct4lkqk9h38caen&rid=giphy.gif&ct=g')";
+  
+  } else if (horror == "halloween 5") {
         document.querySelector("#placeToSee").innerText= "She was shaking; her whole body was shaking.";
 
         document.querySelector("body").style.backgroundImage =
