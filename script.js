@@ -32,10 +32,10 @@ function check() {
       "url('https://64.media.tumblr.com/ddcb084b6c840f489d08e6fc05785a28/tumblr_ph1032ysaj1r2aobgo2_540.gif')";
     
     } else if (horror === "the omen" || horror === "omen") {
-        document.querySelector("#placeToSee").innerText = "Your son, Mr. Thorn. The Son of the Devil. He will kill the unborn child. Then he will kill your wife. And then, when he is certain to inherit all that is yours, then, Mr. Thorn... he will kill you.";
+        document.querySelector("#placeToSee").innerText = "Your son, Mr. Thorn. The Son of the Devil.";
 
         document.querySelector("body").style.backgroundImage =
-      "url('https://images.squarespace-cdn.com/content/v1/5aa6f3f14611a01d7ccce033/1551742039095-8V026KCJ76R059DZRQ3E/image-asset.gif')";
+      "url('https://media1.giphy.com/media/3o7TKK87v4I5UsQqtO/giphy.gif?cid=6c09b9524ed3910112ff044ebdb2bfb23fbee046dd6c14d5&rid=giphy.gif&ct=g')";
     
     } else if (horror === "jaws") {
         document.querySelector("#placeToSee").innerText = "You’re Gonna Need A Bigger Boat!";
@@ -170,10 +170,10 @@ function check() {
       "url('https://media2.giphy.com/media/l49FlGi9qemgMwUzC/giphy.gif?cid=ecf05e47yfbn23w3pyjafei6xqufntuhvx3mmtn1wycn0uz8&rid=giphy.gif&ct=g')";
     
     } else if (horror === "scream") {
-        document.querySelector("#placeToSee").innerText = "Do You Like Scary Movies?";
+        document.querySelector("#placeToSee").innerText = "No, please don't kill me, Mr. Ghostface, I wanna be in the sequel!";
 
         document.querySelector("body").style.backgroundImage =
-      "url('https://media3.giphy.com/media/l2YWy3OWspHaSatXO/giphy.gif?cid=ecf05e47boaaj6fa5yqxr0s1vpslzzbjcuf8o7pchuifrt8y&rid=giphy.gif&ct=g')";
+      "url('https://64.media.tumblr.com/a5db2771da2ce1b17943329afe52b26b/tumblr_pw77alYRst1xlv8m3o2_540.gif')";
     
     } else if (horror === "scream 2") {
         document.querySelector("#placeToSee").innerText = "Is that the best you can do? Because Billy and Stu were much more original.";
@@ -182,22 +182,22 @@ function check() {
       "url('https://i.makeagif.com/media/3-17-2015/eJeSTJ.gif')";
     
     } else if (horror === "scream 3") {
-        document.querySelector("#placeToSee").innerText = "Somebody who would kill to know where Sidney Prescott is! One chance Cotton, you've got connections. Where is she?";
+        document.querySelector("#placeToSee").innerText = "The past will come back to bite you in the ass. Whatever you think you know about the past, forget it. The past is not at rest.";
 
         document.querySelector("body").style.backgroundImage =
-      "url('https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2015/07/Cotton-Weary.gif')";
+      "url('https://i.gifer.com/Ixib.gif')";
     
     } else if (horror === "scream 4") {
-        document.querySelector("#placeToSee").innerText = "Come on Mr. Ghostface, whisper to me! Aren't you supposed to ask me a question?";
+        document.querySelector("#placeToSee").innerText = "Did you hear that?";
 
         document.querySelector("body").style.backgroundImage =
-      "url('https://media.giphy.com/media/Rjx9I7Kwqvb50TdhO0/giphy.gif')";
+      "url('http://68.media.tumblr.com/da3ee789994055db5145eb5856401c0d/tumblr_o19f6uE4pe1rp0vkjo1_500.gif')";
     
     } else if (horror === "the amityville horror" || horror === "amityville horror") {
         document.querySelector("#placeToSee").innerText = "It's always so cold in here";
 
         document.querySelector("body").style.backgroundImage =
-      "url('https://media3.giphy.com/media/Mc7WiBsty2bGsvFVg6/giphy.gif')";
+      "url('https://c.tenor.com/smzSRZrryFkAAAAC/amityville.gif')";
     
     } else if (horror === "the changeling" || horror === "changeling") {
         document.querySelector("#placeToSee").innerText = "That house is not fit to live in. No one's been able to live in it. It doesn't want people";
@@ -227,13 +227,13 @@ function check() {
         document.querySelector("#placeToSee").innerText = "It needs to scare you. There's something in fear, something it can smell. Something that tells it if there's anything inside someone that it might... like";
 
         document.querySelector("body").style.backgroundImage =
-      "url('https://media1.giphy.com/media/tdCTrW0CGiZ32/giphy.gif?cid=ecf05e47yu5nthohywlicxir9ne7cisaxtghdwmrg862tjp1&rid=giphy.gif&ct=g')";
+      "url('http://38.media.tumblr.com/402a33ee6c5792e2a76868d7f31c09f2/tumblr_nishp4X8oD1rp0vkjo1_500.gif')";
     
     } else if (horror === "fright night") {
         document.querySelector("#placeToSee").innerText = "Do you realize how much trouble you've caused me? Spying on me. Almost disturbing my sleep this afternoon. Telling policemen about me!";
 
         document.querySelector("body").style.backgroundImage =
-      "url('https://i.gifer.com/5goP.gif')";
+      "url('https://i.gifer.com/NbRX.gif')";
     
     } else if (horror === "crawl") {
         document.querySelector("#placeToSee").innerText = "They can see you in the dark";
@@ -257,7 +257,7 @@ function check() {
         document.querySelector("#placeToSee").innerText = "Open The Window, Mark";
 
         document.querySelector("body").style.backgroundImage =
-      "url('https://thumbs.gfycat.com/FearlessGregariousIberianemeraldlizard-max-1mb.gif')";
+      "url('https://64.media.tumblr.com/e01c8a620f67e61013fb01942d178c25/41337ffb0a4cf4a6-b4/s640x960/9a0e10f19e58fde9e34b77598a06b267c9c45895.gif')";
     
     } else if (horror === "firestarter") {
         document.querySelector("#placeToSee").innerText = "Back off! Just back off! · Get out of here, you bastard! I'll burn you up!";
@@ -281,7 +281,7 @@ function check() {
         document.querySelector("#placeToSee").innerText = "My God! It's a shark. It's like twenty, twenty-five meters.";
 
         document.querySelector("body").style.backgroundImage =
-      "url('https://i.makeagif.com/media/10-30-2019/9zIQt8.gif')";
+      "url('https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/mouth-1523372503.gif?crop=1xw:1xh;center,top&resize=480:*')";
     
     } else if (horror === "mama") {
         document.querySelector("#placeToSee").innerText = "A ghost is an emotion bent out of shape, condemned to repeat itself, time and time again until it rights the wrong that was done";
@@ -323,7 +323,7 @@ function check() {
         document.querySelector("#placeToSee").innerText = "I hate Halloween";
 
         document.querySelector("body").style.backgroundImage =
-      "url('https://64.media.tumblr.com/75c5e2d62b1874d2b9b74fd0abb40162/21d5e2749ab27e17-ea/s540x810/c14ebc76c23fcd5e950a1f93fff4c54ec6566f1c.gifv')";
+      "url('https://images.gr-assets.com/hostedimages/1476731896ra/20874879.gif')";
     
     } else if (horror === "the sentinel" || horror === "sentinel") {
         document.querySelector("#placeToSee").innerText = "The angel Uriel was stationed at the entrance to Eden to guard it from the devil. Since that time a long line of guardians... sentinels, have guarded the world against evil.";
@@ -353,7 +353,7 @@ function check() {
         document.querySelector("#placeToSee").innerText = "There's something out there waiting for us, and it ain't no man. ";
 
         document.querySelector("body").style.backgroundImage =
-      "url('https://i.gifer.com/PDGS.gif')";
+      "url('https://i.gifer.com/PDGJ.gif')";
     
     } else if (horror === "prometheus") {
         document.querySelector("#placeToSee").innerText = "Big things have small beginnings ";
