@@ -1,4 +1,11 @@
 document.querySelector("#check").addEventListener("click", check);
+let horrorMovie = document.getElementById("horror");
+horrorMovie.addEventListener('keypress', function(e) {
+  if (e.keyCode === 13) {
+    e.preventDefault();
+    document.getElementById("check").click();
+  }
+})
 
 const horror = "Poltergeist";
 
