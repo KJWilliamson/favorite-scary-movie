@@ -74,10 +74,10 @@ function check() {
       "url('https://blackexcellencefilms.files.wordpress.com/2018/07/gracefulembellishedicelandicsheepdog-size_restricted-e1535073710632.gif')";
     
     } else if (horror === "it") {
-        document.querySelector("#placeToSee").innerText = "Hi Georgie";
+        document.querySelector("#placeToSee").innerText = "They ALL float down here. When you’re down here with us, you’ll float too!” ";
 
         document.querySelector("body").style.backgroundImage =
-      "url('https://media4.giphy.com/media/13AU33EspJuPTy/200w.webp?cid=ecf05e47on58zu0gx8gvxhlwchxu4z30kmh7x2scg2v6odzv&rid=200w.webp&ct=g')";
+      "url('https://thumbs.gfycat.com/DarkFrigidBlackandtancoonhound-size_restricted.gif')";
     
     } else if (horror === "the birds" || horror === "birds") {
         document.querySelector("#placeToSee").innerText = "I think you're the cause of all of this. I think you're evil. EVIL!";
@@ -92,7 +92,7 @@ function check() {
       "url('https://media2.giphy.com/media/134Kfzd7fUf2ve/giphy.gif')";
     
     } else if (horror === "a nightmare on elm street" || horror === "nightmare on elm street") {
-        document.querySelector("#placeToSee").innerText = "He scraped his fingernails along things. Actually, they were more like finger-knives or something, like he’d made them himself. Anyway, they made this horrible sound.";
+        document.querySelector("#placeToSee").innerText = "He scraped his fingernails along things. Actually, they were more like finger-knives or something, like he’d made them himself.";
 
         document.querySelector("body").style.backgroundImage =
       "url('https://media2.popsugar-assets.com/files/2013/09/26/914/n/1922283/8517294b90d902de_NightmareOnElm.gif')";
@@ -107,13 +107,13 @@ function check() {
         document.querySelector("#placeToSee").innerText = " You have created a Monster and it will destroy you!";
 
         document.querySelector("body").style.backgroundImage =
-      "url('https://media2.giphy.com/media/MQTBeMgUJciGs/200.webp?cid=ecf05e47rkuc11am5r4rd6ihso2oolvjieo42ipz7ojyu3li&rid=200.webp&ct=g')";
+      "url('https://i.gifer.com/LbHW.gif')";
     
     } else if (horror === "dracula") {
-        document.querySelector("#placeToSee").innerText = " Listen to them. Children of the night. What music they make.";
+        document.querySelector("#placeToSee").innerText = "";
 
         document.querySelector("body").style.backgroundImage =
-      "url('https://media4.giphy.com/media/PRy5GPH1uAeNa/200w.webp?cid=ecf05e47vnxhrv3yqsq4uhx9nil9ihrqb4h3qkw584ohqdpd&rid=200w.webp&ct=g')";
+      "url('https://giffiles.alphacoders.com/169/16973.gif')";
     
     } else if (horror === "the thing") {
         document.querySelector("#placeToSee").innerText = "If It Takes Us Over, Then It Has No More Enemies, Nobody Left To Kill It. And Then It's Won";
@@ -751,6 +751,48 @@ function check() {
 
   document.querySelector("body").style.backgroundImage =
 "url('https://media1.giphy.com/media/56hPClUiHjcLwDWO2H/giphy.gif?cid=ecf05e47f35oa20537yrwcu6d0fhgsgkxebr327vgibn1psc&rid=giphy.gif&ct=g')";
+} else if(horror === "black phone") {
+  document.querySelector("#placeToSee").innerText = "You're going to have to stand up for yourself one of these days.";
+
+  document.querySelector("body").style.backgroundImage =
+"url('https://media1.giphy.com/media/mk3CcfYLevYH618FZb/giphy.gif')";
+
+} else if(horror === "malignant") {
+  document.querySelector("#placeToSee").innerText = "Time to cut out the cancer.";
+
+  document.querySelector("body").style.backgroundImage =
+"url('https://64.media.tumblr.com/1c9d7a79b464ec2f6310082eee5779e4/3493d21c3dd535c3-a4/s500x750/4e77578d462e971740de63909be4e1ae2e0e4c70.gifv')";
+
+} else if(horror === "the night house" || horror === "night house") {
+  document.querySelector("#placeToSee").innerText = "";
+
+  document.querySelector("body").style.backgroundImage =
+"url('https://64.media.tumblr.com/e76072289b885db5cc21a2f7a6390721/6d3082ba9ac454d3-55/s540x810/093434b73d51dd15eea0facc61bfc9130a1a0570.gif')";
+
+} else if(horror === "killer klowns from outer space") {
+  document.querySelector("#placeToSee").innerText = "";
+
+  document.querySelector("body").style.backgroundImage =
+"url('https://64.media.tumblr.com/674164befc2c6788357ecbbd97860404/58449f1f41cb9a10-67/s400x600/874961e5d9de08251b3084944680cfd781b72975.gif')";
+
+} else if(horror === "x") {
+  document.querySelector("#placeToSee").innerText = "";
+
+  document.querySelector("body").style.backgroundImage =
+"url('https://media.tenor.com/7lNMT2qUf1IAAAAC/bathing-maxine-minx.gif')";
+
+} else if(horror === "it's alive") {
+  document.querySelector("#placeToSee").innerText = "";
+
+  document.querySelector("body").style.backgroundImage =
+"url('https://64.media.tumblr.com/7b02dfecfe78864e0b779d8462bf6bdd/tumblr_oyh3tpds5L1ukwh7so1_640.gifv')";
+
+} else if(horror === "scanners") {
+  document.querySelector("#placeToSee").innerText = "";
+
+  document.querySelector("body").style.backgroundImage =
+"url('https://media.tenor.com/2Lik_P010BIAAAAC/scanners-ironside.gif')";
+
 } else {
       document.querySelector("#placeToSee").innerText= "";
         document.querySelector("body").style.backgroundImage = "url('https://thumbs.gfycat.com/BonyLivelyAtlanticblackgoby-size_restricted.gif')";
