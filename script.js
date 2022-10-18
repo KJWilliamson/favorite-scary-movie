@@ -460,12 +460,6 @@ function check() {
 
     document.querySelector("body").style.backgroundImage =
       "url('https://64.media.tumblr.com/2b8566eb09d93740d9f51af4e7bf9e1d/tumblr_n2pcjsO1ad1tqq2ydo1_500.gifv')";
-  } else if (horror === "twilight zone the movie") {
-    document.querySelector("#placeToSee").innerText =
-      "Hey... you wanna see something really scary?";
-
-    document.querySelector("body").style.backgroundImage =
-      "url('https://i.gifer.com/QsxY.gif')";
   } else if (horror === "unfriended") {
     document.querySelector("#placeToSee").innerText =
       " Laura, I'm sorry that we drifted apart!";
@@ -484,12 +478,6 @@ function check() {
 
     document.querySelector("body").style.backgroundImage =
       "url('https://i.gifer.com/Ajt2.gif')";
-  } else if (horror === "tremors") {
-    document.querySelector("#placeToSee").innerText =
-      "That's how they git you. They're under the goddamned ground!";
-
-    document.querySelector("body").style.backgroundImage =
-      "url('https://c.tenor.com/CXtqBcEB8ncAAAAC/tremors-monster.gif')";
   } else if (horror === "paranormal activity") {
     document.querySelector("#placeToSee").innerText =
       "Well, basically it could be two things: it could be a ghost... [mock whisper] or it could be a demon.";
@@ -549,24 +537,6 @@ function check() {
 
     document.querySelector("body").style.backgroundImage =
       "url('https://64.media.tumblr.com/4f0bff3b8b05f24ddf80b11320e21777/tumblr_n7nndjr33S1r70le6o1_500.gifv')";
-  } else if (horror === "jaws 2") {
-    document.querySelector("#placeToSee").innerText =
-      "But I'm telling you, and I'm telling everybody at this table that that's a shark! And I know what a shark looks like, because I've seen one up close. And you'd better do something about this one, because I don't intend to go through that hell again!";
-
-    document.querySelector("body").style.backgroundImage =
-      "url('https://c.tenor.com/PUdlMQU2k_8AAAAd/jaws-jaws2.gif')";
-  } else if (horror === "jaws 3") {
-    document.querySelector("#placeToSee").innerText =
-      "White sharks are dangerous";
-
-    document.querySelector("body").style.backgroundImage =
-      "url('https://thumbs.gfycat.com/LiveVillainousAtlasmoth-max-1mb.gif')";
-  } else if (horror === "jaws the revenge") {
-    document.querySelector("#placeToSee").innerText =
-      "Well she got the idea in her head that the shark that killed Martin and Sean is now following the family.";
-
-    document.querySelector("body").style.backgroundImage =
-      "url('http://33.media.tumblr.com/1c34339c91fe354c927b468b1b8a51ba/tumblr_nqtdnb1qXO1rp0vkjo1_500.gif')";
   } else if (horror === "the invisible man" || horror === "invisible man") {
     document.querySelector("#placeToSee").innerText =
       "He said that wherever I went, he would find me, walk right up to me, and I wouldn’t be able to see him.";
