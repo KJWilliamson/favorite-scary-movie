@@ -47,11 +47,11 @@ h2 {
 @media screen and (max-width: 490px) {
 
     h1 {
-      font-size: 1.1rem;
+      font-size: 1.3rem;
     }
 
     h2 {
-        font-size: 1rem;
+        font-size: 1.2rem;
     }
 
 } 
