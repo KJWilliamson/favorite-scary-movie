@@ -716,11 +716,6 @@ function check() {
 
   document.querySelector("body").style.backgroundImage =
 "url('https://media4.giphy.com/media/EF7SPrk8gRtjq/giphy.gif?cid=ecf05e47ljyvas1gabwomzatra8t2egllw7sf5pwromouu9i&rid=giphy.gif&ct=g')";
-} else if (horror === "return of the living dead") {
-  document.querySelector("#placeToSee").innerText= "Braaaiiins";
-
-  document.querySelector("body").style.backgroundImage =
-"url('https://media0.giphy.com/media/6DKarCyCfJN84/giphy.gif?cid=ecf05e47sd0nkk6dgel9kouobnd1v7jzz668p1prmpu7hhvb&rid=giphy.gif&ct=g')";
 } else if (horror === "28 days later") {
   document.querySelector("#placeToSee").innerText= "No. There's no government. No army. No police. No TV, no radio, no electricity. You're the first uninfected person we've seen in six days";
 
@@ -746,11 +741,6 @@ function check() {
 
   document.querySelector("body").style.backgroundImage =
 "url('https://media0.giphy.com/media/QxjTzgPCSfcLdjwd1O/giphy.gif?cid=ecf05e47o1my763xaaifd9op3bffa78ya0y1yml27558tbcm&rid=giphy.gif&ct=g')";
-} else if (horror === "night house") {
-  document.querySelector("#placeToSee").innerText= "";
-
-  document.querySelector("body").style.backgroundImage =
-"url('https://media1.giphy.com/media/56hPClUiHjcLwDWO2H/giphy.gif?cid=ecf05e47f35oa20537yrwcu6d0fhgsgkxebr327vgibn1psc&rid=giphy.gif&ct=g')";
 } else if(horror === "black phone") {
   document.querySelector("#placeToSee").innerText = "You're going to have to stand up for yourself one of these days.";
 
@@ -762,12 +752,6 @@ function check() {
 
   document.querySelector("body").style.backgroundImage =
 "url('https://64.media.tumblr.com/1c9d7a79b464ec2f6310082eee5779e4/3493d21c3dd535c3-a4/s500x750/4e77578d462e971740de63909be4e1ae2e0e4c70.gifv')";
-
-} else if(horror === "the night house" || horror === "night house") {
-  document.querySelector("#placeToSee").innerText = "";
-
-  document.querySelector("body").style.backgroundImage =
-"url('https://64.media.tumblr.com/e76072289b885db5cc21a2f7a6390721/6d3082ba9ac454d3-55/s540x810/093434b73d51dd15eea0facc61bfc9130a1a0570.gif')";
 
 } else if(horror === "killer klowns from outer space") {
   document.querySelector("#placeToSee").innerText = "";
