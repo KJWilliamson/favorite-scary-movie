@@ -46,6 +46,13 @@ h2 {
 
 @media screen and (max-width: 490px) {
 
+    body {
+      position: relative;
+      background-size: cover;
+      background-position: center;
+      height: 100%;
+      width: 100%;
+    }
     h1 {
       font-size: 1.3rem;
     }
