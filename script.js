@@ -8,12 +8,12 @@ horrorMovie.addEventListener("keydown", function (e) {
 });
 
 //keeping keyboard from moving when user inputs movie
-const getPixels = (percentage) => {
+const getPixels = (percent) => {
   const screenHeight = window.innerHeight;
   return (screenHeight / 100) * percentage;
 };
 
-elem.style.minHeight = `${getPixels(75)}px`;
+elem.style.minHeight = `${getPixels(100)}px`;
 
 
 
