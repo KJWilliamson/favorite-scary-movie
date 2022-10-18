@@ -5,6 +5,20 @@ body {
     background-color: black;
 }
 
+::-webkit-input-placeholder {
+  font-weight: bolder;
+  color: black;
+}
+
+label {
+  font-weight: bolder;
+}
+
+input::placeholder {
+  font-weight: boldest;
+}
+
+
 h1,
 h2,
 form {
@@ -47,11 +61,11 @@ h2 {
 
 @media screen and (max-width: 685px) {
 
-  body {
+  /* body {
     background-repeat: no-repeat;
     background-size: 100%;
     background-color: black;
-}
+} */
 
     h1 {
       font-size: 1.4rem;
@@ -61,17 +75,22 @@ h2 {
       font-size: 1.4rem;
     }
 
+    /* label {
+      font-weight: bolder;
+    }
+
     form label {
       font-weight: bolder;
     }
 
     ::-webkit-input-placeholder {
       font-weight: bolder;
+      color: black;
     }
 
     input::placeholder {
       font-weight: boldest;
-    }
+    } */
 
     h2 {
         font-size: 1.3rem;
