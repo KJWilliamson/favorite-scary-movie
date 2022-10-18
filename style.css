@@ -45,7 +45,7 @@ h2 {
     color: red;
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 685px) {
 
   body {
     background-repeat: no-repeat;
@@ -54,11 +54,27 @@ h2 {
 }
 
     h1 {
-      font-size: 1.3rem;
+      font-size: 1.4rem;
+    }
+
+    form {
+      font-size: 1.4rem;
+    }
+
+    form label {
+      font-weight: bolder;
+    }
+
+    ::-webkit-input-placeholder {
+      font-weight: bolder;
+    }
+
+    input::placeholder {
+      font-weight: boldest;
     }
 
     h2 {
-        font-size: 1.2rem;
+        font-size: 1.3rem;
     }
 
 } 
