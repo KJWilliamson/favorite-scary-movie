@@ -15,9 +15,12 @@ label {
 }
 
 input::placeholder {
-  font-weight: boldest;
+  font-weight: bolder;
 }
 
+input {
+  font-weight: bolder;
+}
 
 h1,
 h2,
