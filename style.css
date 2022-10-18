@@ -44,7 +44,7 @@ h2 {
     color: red;
 }
 
-@media screen and (max-width: 750px) {
+@media screen and (max-width: 490px) {
 
     h1 {
       font-size: 1.1rem;
