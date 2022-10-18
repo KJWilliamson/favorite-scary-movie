@@ -1,6 +1,5 @@
 body {
-    /* margin-top: 370px; */
-    margin-top: 23.125rem;
+    margin-top: 370px;
     background-repeat: no-repeat;
     background-size: 100%;
     background-color: black;
@@ -46,15 +45,13 @@ h2 {
     color: red;
 }
 
-@media screen and (max-width: 490px) {
+@media screen and (max-width: 480px) {
 
-    body {
-      position: relative;
-      background-size: cover;
-      background-position: center;
-      height: 100%;
-      width: 100%;
-    }
+  body {
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: black;
+}
 
     h1 {
       font-size: 1.3rem;
