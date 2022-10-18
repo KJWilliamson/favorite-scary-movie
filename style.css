@@ -16,10 +16,6 @@ h1 {
     font-size: 40px;
 }
 
-input {
-  width: 100px;
-}
-
 button {
   display: block;
   margin: 20px auto;
@@ -48,16 +44,16 @@ h2 {
     color: red;
 }
 
-/* @media screen and (max-width: 800px) {
+@media screen and (max-width: 750px) {
 
-
-    body {
-        margin-top: 240px;
-        background-size: contain;
+    h1 {
+      font-size: 1.3rem;
     }
 
     h2 {
-        font-size: 1.5rem;
+        font-size: 1.1rem;
     }
 
-} */
+} 
+
+
