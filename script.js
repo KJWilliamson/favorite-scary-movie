@@ -1,7 +1,7 @@
 document.querySelector("#check").addEventListener("click", check);
 let horrorMovie = document.getElementById("horror");
 horrorMovie.addEventListener("keydown", function (e) {
-  if (e.keyCode === 13 || e.key === 13) {
+  if (e.key === 'Enter' || e.key === 'NumpadEnter') {
     e.preventDefault();
     document.getElementById("check").click();
   }
